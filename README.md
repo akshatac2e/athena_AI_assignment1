@@ -300,7 +300,6 @@ Potential improvements:
 
 1. MediaPipe Pose: https://google.github.io/mediapipe/solutions/pose.html
 2. Golf Biomechanics Research: TPI (Titleist Performance Institute)
-3. R&A Golf Participation Report (2022)
 
 ## License
 
